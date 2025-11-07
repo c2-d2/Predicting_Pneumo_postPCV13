@@ -2,7 +2,7 @@
 
 This repository contains the data and analysis scripts used in the study:  
 **"Predicting pneumococcal population composition after vaccine introduction"**  
-Published in *mBio* (2023)  
+Published in *mBio* (2024)  
 🔗 [https://journals.asm.org/doi/full/10.1128/mbio.03355-23](https://journals.asm.org/doi/full/10.1128/mbio.03355-23)
 
 ---
