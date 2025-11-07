@@ -18,12 +18,13 @@ The scripts implement data preparation, weighting, and model-based prediction of
 
 ```
 Predicting_Pneumo_postPCV13/
-├── data/                     # All input data files (metadata, weights, GPSC cluster assignments, etc.)
-├── output/                   # All output files and figures
-├── 01_accessory_filter.R     # Step 1: Filter and convert Roary accessory genome output
-├── 02_weight_eval.R          # Step 2: Generate serotype-specific weights and evaluate correlation
-├── 03_prediction_model.R     # Step 3: Apply NFDS model to predict post-PCV13 strain frequencies
-└── README.md                 # Project documentation
+├── data/                                         # All input data files (metadata, weights, GPSC cluster assignments, etc.)
+├── output/                                       # All output files and figures
+├── manuscript_supplemental_data/                 # Supplemental Data mentioned in the manuscript supplemental doc
+├── 1.presence-absence-matrix.R                   # Step 1: Filter and convert Roary accessory genome output
+├── 2.Correlation_analysis.R                      # Step 2: Generate serotype-specific weights and evaluate correlation
+├── 3.NFDS_prediction_function_sensitivity.R      # Step 3: Apply NFDS model to predict post-PCV13 strain frequencies
+└── README.md                                     # Project documentation
 ```
 
 ---
