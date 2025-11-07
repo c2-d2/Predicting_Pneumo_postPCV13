@@ -84,10 +84,11 @@ Figures and outputs can be reproduced exactly if directory structure is preserve
 Sensitivity analyses can be conducted by modifying GPSC cluster size cutoffs and vaccine type definitions in the final prediction script.
 
 👩‍🔬 Author
-Xueting Qiu, PhD, MD-equivalent
-Senior Scientist, Ginkgo Biosecurity
+Xueting Qiu, PhD
 Harvard T.H. Chan School of Public Health (former postdoc)
 📧 xuetingqiu@hsph.harvard.edu
+📧 qiuxueting1402@gmail.com
+
 
 📜 Citation
 If you use this code or data, please cite:
