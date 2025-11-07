@@ -1,1 +1,2 @@
-all the data used in the three R scripts can be find in this folder
+Note: these datasets are used in R scripts 2 and 3 
+For the input of R scripts 1, the output from Roary is too big, so it will be hosted in dropbox. You can download it here: 
