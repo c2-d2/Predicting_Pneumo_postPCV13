@@ -97,7 +97,8 @@ You can download it here:
 
 ## 🧠 Notes
 
-- Scripts were developed and tested in **R 4.2.2**.  
+- Scripts were developed and tested in **R 4.2.2**.
+- These scripts were refactored in Nov 2025 for clarity. 
 - Figures and outputs can be reproduced exactly if the directory structure is preserved.  
 - Sensitivity analyses can be conducted by modifying:
   - **GPSC cluster size cutoffs** (e.g., >3, >5, >10 isolates)  
