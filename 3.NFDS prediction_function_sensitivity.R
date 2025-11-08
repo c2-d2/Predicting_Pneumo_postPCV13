@@ -302,9 +302,8 @@ run_prediction_sensitivity <- function(df_unw_master,
     else                    "NVT"
   })
   
-  # ---- sensitivity: only change vaccinetype for serotype 3 ----
+  # ---- sensitivity: change vaccinetype for serotype 3 to NVT ----
   if (sero3_as_nvt) {
-    message("Applying serotype 3 sensitivity: converting serotype 3 → NVT and removing from Cluster 1")
     
     # convert serotype 3 to NVT before collapsing
     df$vaccinetype[df$serotype2 == "3"]  <- "NVT"
