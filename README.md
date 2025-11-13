@@ -1,7 +1,7 @@
 # 🧬 Predicting Pneumo post-PCV13
 
 This repository contains the data and analysis scripts used in the study:  
-**"Predicting pneumococcal population composition after vaccine introduction"**  
+**"Prediction of post-PCV13 pneumococcal evolution using invasive disease data enhanced by inverse-invasiveness weighting"**  
 Published in *mBio* (2024)  
 🔗 [https://journals.asm.org/doi/full/10.1128/mbio.03355-23](https://journals.asm.org/doi/full/10.1128/mbio.03355-23)
 
@@ -121,6 +121,6 @@ Harvard T.H. Chan School of Public Health (former postdoc)
 
 If you use this code or data, please cite:
 
-> Qiu X., et al. (2023). *Predicting pneumococcal population composition after vaccine introduction.*  
+> Qiu X., et al. (2023). *Prediction of post-PCV13 pneumococcal evolution using invasive disease data enhanced by inverse-invasiveness weighting*  
 > *mBio* 14(2): e03355-23.  
 > DOI: [10.1128/mbio.03355-23](https://doi.org/10.1128/mbio.03355-23)
